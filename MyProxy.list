@@ -1,6 +1,0 @@
-# 自用代理规则
-
- - DOMAIN-SUFFIX,emby.wtf
- - DOMAIN-SUFFIX,pronemby.club
- - DOMAIN-SUFFIX,op.gg
- - DOMAIN-SUFFIX,docker.io
