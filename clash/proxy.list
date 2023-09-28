@@ -1,2 +1,10 @@
 # Media
 DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,provider.plex.tv
+DOMAIN-SUFFIX,pubsub.plex.tv
+DOMAIN-SUFFIX,images.plex.tv
+DOMAIN-SUFFIX,metadata-static.plex.tv
+DOMAIN-SUFFIX,pornemby.club
+DOMAIN-SUFFIX,atomlantis.cloud
+
+# 机场
