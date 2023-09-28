@@ -1,0 +1,9 @@
+# plex
+DOMAIN-SUFFIX,provider.plex.tv
+DOMAIN-SUFFIX,pubsub.plex.tv
+DOMAIN-SUFFIX,images.plex.tv
+DOMAIN-SUFFIX,metadata-static.plex.tv
+
+# 机场
+DOMAIN-SUFFIX,atomlantis.cloud
+DOMAIN-SUFFIX,sfcloud.pro
