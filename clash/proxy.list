@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,metadata-static.plex.tv
 # 机场
 DOMAIN-SUFFIX,atomlantis.cloud
 DOMAIN-SUFFIX,sfcloud.pro
+
+# unraid
+DOMAIN-SUFFIX,docker.io
